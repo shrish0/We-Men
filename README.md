@@ -1,8 +1,5 @@
-Here's a sample `README.md` file that outlines the concept of your project "We-Men" and highlights the necessary technologies:
-
----
-
 # We-Men: A Social Media Platform with Advanced Face Verification
+# Say no to DeepFake and MMS here at WeMen
 
 ## Overview
 
