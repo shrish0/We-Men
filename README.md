@@ -1,5 +1,5 @@
 # We-Men: A Social Media Platform with Advanced Face Verification
-# Say no to DeepFake and MMS here at WeMen
+## Say no to DeepFake and MMS here at WeMen
 
 ## Overview
 
